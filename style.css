@@ -22,6 +22,7 @@ body {
   border: 5px solid black;
   border-radius: 30px;
   margin: 20px;
+  padding: 5px;
 }
 .p2 {
   border: 5px solid black;
@@ -86,6 +87,7 @@ body {
   background-color: #48D6FA;
   margin: 20px
 }
+
 
 
 
